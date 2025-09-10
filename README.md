@@ -1,4 +1,4 @@
-<h1 align="center">Maria Eduarda Lima</h1>
+<h1 align="center">Maria Eduarda </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Oi%2C+eu+sou+a+Maria+Eduarda+Lima!;Apaixonada+por+tecnologia+e+aprendizado+%F0%9F%92%BB" alt="Typing SVG" />
@@ -18,26 +18,26 @@
 
 ---
 
-<h2> 👩‍💻 Sobre Mim </h2>
+<h2> 🕸 Sobre Mim </h2>
 
 <p>
-  Olá! Meu nome é <strong>Maria Eduarda Lima</strong>, tenho 15 anos e sou apaixonada por aprender coisas novas, especialmente na área da tecnologia.
+🎀 Olá! Meu nome é <strong>Maria Eduarda </strong>, tenho 15 anos e sou apaixonada por aprender coisas novas, especialmente na área da tecnologia.
 </p>
 
 <p>
-  Atualmente estou cursando <strong>Desenvolvimento Web</strong> e adoro explorar diferentes formas de criar e desenvolver na web.
+✨ Atualmente estou cursando <strong>Desenvolvimento Web</strong> e adoro explorar diferentes formas de criar e desenvolver na web.
 </p>
 
 <p>
-  Nas horas vagas, gosto muito de assistir <strong>filmes e séries de romance</strong>, e me interessar por histórias emocionantes.
+🎗 Nas horas vagas, gosto muito de assistir <strong>filmes e séries de romance</strong>, e me interessar por histórias emocionantes.
 </p>
 
 <p>
-  No futuro, pretendo me formar em <strong>Psicologia</strong>, com foco na área infantil, pois acredito no poder do conhecimento e do cuidado para transformar vidas.
+🤍 No futuro, pretendo me formar em <strong>Psicologia</strong>, com foco na área infantil, pois acredito no poder do conhecimento e do cuidado para transformar vidas.
 </p>
 
 <p>
-  Amo explorar tudo o que envolve <strong>conhecimento, aprendizado contínuo e criatividade</strong> 💡.
+💌 Amo explorar tudo o que envolve <strong>conhecimento, aprendizado contínuo e criatividade</strong> 💡.
 </p>
 
 ---
